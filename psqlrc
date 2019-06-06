@@ -1,0 +1,6 @@
+\set COMP_KEYWORD_CASE upper
+\set HISTFILE ~/.config/psql/history/ :DBNAME
+\pset null '(null)'
+\pset format wrapped
+\pset linestyle unicode
+\x
